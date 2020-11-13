@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Online Courier Software Script, Cargo Tracking Module in PHP, MySql in India</title>
+<title>Online Courier Software Script, Cargo Tracking Module in PHP, mysql in India</title>
 <meta name="description" content="A Simple Solution to enable Tracking in your Existing Website.">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link href="css/aalpha.css" rel="stylesheet" type="text/css">
